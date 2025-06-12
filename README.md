@@ -1,7 +1,10 @@
 # Arduino-Projects-for-Schools
-Arduino MKR Projects for Schools is a colourful entry-level resource, which introduces learners to the exciting world of microcontrollers, the Internet of Things and Data Science. Learners use both simulators and physical devices to build systems and solve real-life problems.
 
-## [Download here](https://github.com/arm-university/arduino-projects-for-schools/archive/refs/heads/main.zip)
+ ## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Arduino-Projects-for-Schools/releases/download/v2.0.0/Arduino-Projects-for-Schools-main.zip)
+
+Arduino MKR Projects for Schools is a colourful entry-level resource, which introduces learners to the exciting world of microcontrollers, the Internet of Things and Data Science. Learners use both simulators and physical devices to build systems and solve real-life problems.
 
 ## Resource Aim
 To introduce learners to Physical Computing, the Internet of Things and Machine Learning through engaging hands-on, real-world projects using an Arduino and peripherals.
